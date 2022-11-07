@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tic-tac-toe-react/static/css/main.9f82d68c.css",
+    "main.css": "/tic-tac-toe-react/static/css/main.ce9f3856.css",
     "main.js": "/tic-tac-toe-react/static/js/main.3adb96cc.js",
     "static/js/496.b7b103cd.chunk.js": "/tic-tac-toe-react/static/js/496.b7b103cd.chunk.js",
     "static/media/forkme.svg": "/tic-tac-toe-react/static/media/forkme.20175b593f3e9323aca6b24854dc28eb.svg",
@@ -8,12 +8,12 @@
     "static/media/linkedin.svg": "/tic-tac-toe-react/static/media/linkedin.37363b20fb7746cd3eaa58f1d04f983b.svg",
     "index.html": "/tic-tac-toe-react/index.html",
     "static/media/stackoverflow.svg": "/tic-tac-toe-react/static/media/stackoverflow.ff8c0c8e0d037791c351de5f3b4116e2.svg",
-    "main.9f82d68c.css.map": "/tic-tac-toe-react/static/css/main.9f82d68c.css.map",
+    "main.ce9f3856.css.map": "/tic-tac-toe-react/static/css/main.ce9f3856.css.map",
     "main.3adb96cc.js.map": "/tic-tac-toe-react/static/js/main.3adb96cc.js.map",
     "496.b7b103cd.chunk.js.map": "/tic-tac-toe-react/static/js/496.b7b103cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f82d68c.css",
+    "static/css/main.ce9f3856.css",
     "static/js/main.3adb96cc.js"
   ]
 }
