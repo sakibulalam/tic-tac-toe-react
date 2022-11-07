@@ -25,7 +25,7 @@ interface Props {
 }
 
 const drawSquare = (i: number, value: Player, handler: SquareClickHandler) =>
-    <Square value={value} onClick={() => handler(i)} key={i}/>
+    <Square value={value} onClick={() => handler(i)} key={i} index={i}/>
 ;
 
 const Board: React.FC<Props> = ({squares, squareClickHandler, winLayout}: Props) =>

@@ -62,7 +62,7 @@ const Game: React.FC = () => {
         setGameWinLayout(null);
     }
 
-    return <div className="w-screen h-screen flex flex-row justify-center items-center">
+    return <div className="w-screen flex-grow flex flex-row justify-center items-center">
         <div className="flex flex-col-reverse">
             <div className="flex flex-col">
                 <Board squares={playerGameState.gameState.squares}
