@@ -7,7 +7,7 @@ type Props = {
 }
 
 const PlayButton: React.FC<Props> = ({gamePlayState, onClick}: Props) =>
-    <button className={`text-3xl hover:underline ${gamePlayState === GamePlayState.PLAYING ? 'hidden' : ''}`}
+    <button className={`text-3xl hover:underline ${gamePlayState === GamePlayState.PLAYING ? 'invisible' : ''}`}
             onClick={onClick}>
         Play Again?
     </button>;

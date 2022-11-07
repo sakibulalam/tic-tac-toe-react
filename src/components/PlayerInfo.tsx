@@ -19,7 +19,7 @@ const PlayerInfo: React.FC<Props> = ({gamePlayState, player}: Props) =>
         <p>
             {INFO_MAP.get(gamePlayState)}
         </p>
-        <p className={gamePlayState === GamePlayState.GAME_OVER ? 'hidden' : ''}>{player}</p>
+        <p className={gamePlayState === GamePlayState.GAME_OVER ? 'invisible' : ''}>{player}</p>
     </div>;
 
 export default PlayerInfo;
